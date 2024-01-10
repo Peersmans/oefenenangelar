@@ -1,0 +1,19 @@
+.navigation {
+    width: 80%;
+}
+img {
+    padding: 10px;
+}
+table {
+    border: solid 3px black;
+    background: rgb(163,153,153);
+    width: 105%;
+    padding: 10px;
+    margin-left: 10%;
+}
+th {
+    text-align: left; 
+}
+td {
+    padding-left: 4px;
+}

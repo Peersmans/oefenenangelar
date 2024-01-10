@@ -1,0 +1,10 @@
+.tekst {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(163,153,153);
+    color: aliceblue;
+    text-align: center;
+    padding: 4px;
+}

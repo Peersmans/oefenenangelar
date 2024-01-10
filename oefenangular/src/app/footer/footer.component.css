@@ -1,0 +1,15 @@
+.footer {
+    position: relative;
+    left: 5%;
+    bottom: 0;
+    width: 95%;
+    color: black;
+    text-align: left;
+}
+.column {
+    float: left;
+    width: 100%;
+}
+.row {
+    display: table;
+}

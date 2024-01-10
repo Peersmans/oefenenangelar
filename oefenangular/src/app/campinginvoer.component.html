@@ -1,0 +1,4 @@
+<label for="CampingNaam">Campingnaam</label>
+<input type="text" id="CampingNaam" [(ngModel)]="invoerCampingNaam">
+<button (click)="onCreateCamping()">Invoeren</button>
+<app-camping [campinglist]="Campings"></app-camping>
